@@ -15,6 +15,6 @@ Output: Predicted class (letter, numeral, or special character).
 Model: Convolutional Neural Network (CNN) designed to capture spatial features in the image for accurate classification.
 Steps Involved
 Preprocessing: Images were normalized to improve model accuracy.
-Model Architecture: A CNN was built to extract features from the images and classify them into their respective classes.
+Model Architecture: A CNN was built to extract features from the images and classify them into their respective types.
 Training: The model was trained using the dataset of handwritten characters, numerals, and special characters.
 Evaluation: Model performance was evaluated using accuracy and loss metrics on the test set.
