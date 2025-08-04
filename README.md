@@ -1,4 +1,4 @@
-## Alphanumeric Character Recognition using Convolutional Neural Network
+## Alphanumeric Character Recognition using CNN
 This project involves the recognition of grayscale images of handwritten characters, numerals, and special characters, each with a resolution of 24x24 pixels. The main goal of the project is to classify the images into their respective categories using a Convolutional Neural Network (CNN) model.
 
 ## Project Overview
